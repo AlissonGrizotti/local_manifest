@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/vayu" name="AlissonGrizotti/device_xiaomi_vayu.git" remote="github" revision="eleven" />
+ <project path="vendor/xiaomi/vayu" name="AlissonGrizotti/vendor_xiaomi_vayu.git" remote="github" revision="eleven" />
+ <project path="kernel/xiaomi/vayu" name="AlissonGrizotti/kernel_xiaomi_vayu.git" remote="github" revision="eleven" />
+ <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
