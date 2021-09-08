@@ -4,6 +4,6 @@
  <!-- Trees -->
  <project path="device/xiaomi/vayu" name="PixelExperience-Devices/device_xiaomi_vayu.git" remote="github" revision="eleven-plus" />
  <project path="vendor/xiaomi/vayu" name="AlissonGrizotti/vendor_xiaomi_vayu.git" remote="github" revision="eleven" />
- <project path="kernel/xiaomi/vayu" name="AlissonGrizotti/kernel_xiaomi_vayu.git" remote="github" revision="eleven" />
+ <project path="kernel/xiaomi/vayu" name="AlissonGrizotti/kernel_xiaomi_vayu.git" remote="github" revision="r" />
  
 </manifest>
