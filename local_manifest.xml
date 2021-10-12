@@ -6,7 +6,6 @@
  <project path="vendor/xiaomi/vayu" name="AlissonGrizotti/vendor_xiaomi_vayu.git" remote="github" revision="r" />
  <project path="kernel/xiaomi/vayu" name="PixelExperience-Devices/kernel_xiaomi_vayu.git" remote="github" revision="eleven" />
  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings.git" remote="github" revision="lineage-19.0" />
- <project path="device/google/cuttlefish" name="LGWingEmulator/device-google-cuttlefish.git" remote="github" revision="master" />
 
 </manifest>
 
