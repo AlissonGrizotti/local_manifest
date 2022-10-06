@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+ 
+   <remote name="gitlabpe"
+           fetch="https://gitlab.pixelexperience.org/" />
 
  <!-- Trees -->
- <project path="device/xiaomi/vayu" name="PixelExperience-Devices/device_xiaomi_vayu.git" remote="github" revision="twelve-plus" />
- <project path="vendor/xiaomi/vayu" name="AlissonGrizotti/vendor_xiaomi_vayu.git" remote="github" revision="twelve-wip" />
- <project path="kernel/xiaomi/vayu" name="PixelExperience-Devices/kernel_xiaomi_vayu.git" remote="github" revision="twelve" />
- <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/vayu" name="PixelExperience-Devices/device_xiaomi_vayu.git" remote="github" revision="thirteen" />
+ <project path="vendor/xiaomi/vayu" name="android/vendor-blobs/vendor_xiaomi_vayu.git" remote="gitlabpe" revision="thirteen" />
+ <project path="kernel/xiaomi/vayu" name="PixelExperience-Devices/kernel_xiaomi_vayu.git" remote="github" revision="thirteen" />
+ <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="thirteen" />
  
 </manifest>
