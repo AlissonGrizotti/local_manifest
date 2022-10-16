@@ -7,7 +7,7 @@
  <!-- Trees -->
  <project path="device/xiaomi/vayu" name="PixelExperience-Devices/device_xiaomi_vayu.git" remote="github" revision="thirteen" />
  <project path="vendor/xiaomi/vayu" name="android/vendor-blobs/vendor_xiaomi_vayu.git" remote="gitlabpe" revision="thirteen" />
- <project path="kernel/xiaomi/vayu" name="Bagualisson/kernel_xiaomi_vayu.git" remote="github" revision="thirteen" />
+ <project path="kernel/xiaomi/vayu" name="PixelExperience-Devices/kernel_xiaomi_vayu.git" remote="github" revision="thirteen" />
  <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="thirteen" />
  
 </manifest>
